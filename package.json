@@ -27,7 +27,7 @@
   "dependencies": {
     "creed": "1.0.4",
     "glob": "^7.1.2",
-    "pnpm": "^1.4.0",
+    "pnpm": "1.0.0",
     "pnpm-logger": "^0.5.0",
     "supi": "^0.2.0"
   },
