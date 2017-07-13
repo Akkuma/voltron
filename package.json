@@ -15,7 +15,9 @@
   "keywords": [
     "browser extension",
     "browser-extension",
-    "extensions"
+    "extensions",
+    "webextension",
+    "web extension"
   ],
   "author": "Gregory Waxman <akkuma+github@gmail.com>",
   "bugs": {
@@ -24,12 +26,12 @@
   "homepage": "https://github.com/virtru/voltron",
   "dependencies": {
     "creed": "1.0.4",
-    "glob": "^7.0.5",
-    "pnpm": "^0.48.0"
+    "glob": "^7.1.2",
+    "pnpm": "^1.4.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
     "globby": "^6.0.0",
-    "webpack": "^1.13.1"
+    "webpack": "^1.15.0"
   }
 }
